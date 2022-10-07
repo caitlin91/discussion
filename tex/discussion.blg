@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+The style file: agsm.bst
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+Database file #1: ../../References/methodology.bib
+Database file #2: ../../References/rRP.bib
+Repeated entry---line 549 of file ../../References/rRP.bib
+ : @book{Wells1982b
+ :                 ,
+I'm skipping whatever remains of this entry
+Database file #3: ../../References/goatAllophony.bib
+Database file #4: ../../References/tynesideEnglish.bib
+Database file #5: ../../References/trapBath.bib
+Repeated entry---line 369 of file ../../References/trapBath.bib
+ : @book{Wells1982b
+ :                 ,
+I'm skipping whatever remains of this entry
+Database file #6: ../../References/footStrut.bib
+Repeated entry---line 171 of file ../../References/footStrut.bib
+ : @book{Wells1982b
+ :                 ,
+I'm skipping whatever remains of this entry
+You've used 2 entries,
+            2909 wiz_defined-function locations,
+            659 strings with 5281 characters,
+and the built_in function-call counts, 5880 in all, are:
+= -- 942
+> -- 55
+< -- 0
++ -- 432
+- -- 16
+* -- 469
+:= -- 1244
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 27
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 34
+empty$ -- 66
+format.name$ -- 20
+if$ -- 1043
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 9
+num.names$ -- 22
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 1310
+swap$ -- 2
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 43
+width$ -- 0
+write$ -- 29
+(There were 3 error messages)
